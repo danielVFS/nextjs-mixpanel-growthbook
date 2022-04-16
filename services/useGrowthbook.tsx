@@ -3,8 +3,8 @@ import Router from "next/router";
 import { useEffect } from "react";
 import { browserName } from "react-device-detect";
 
-import userMock from "../pages/mocks/user.json";
-import { User } from "../pages/models/User";
+import userMock from "../mocks/user.json";
+import { User } from "../models/User";
 
 const FEATURES_ENDPOINT =
   "http://localhost:3100/api/features/key_prod_7e110c2423e1b502";

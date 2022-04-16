@@ -4,8 +4,8 @@ import { IfFeatureEnabled } from "@growthbook/growthbook-react";
 
 import styles from "../../styles/Products.module.css";
 import { MixpanelTracking } from "../../services/mixpanel";
-import productsMock from "../mocks/products.json";
-import { Product } from "../models/Product";
+import productsMock from "../../mocks/products.json";
+import { Product } from "../../models/Product";
 
 const products: Product[] = productsMock;
 
