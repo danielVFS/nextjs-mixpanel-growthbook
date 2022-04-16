@@ -1,6 +1,6 @@
 import mixpanel from "mixpanel-browser";
 import TrackingEvents from "../enums/tracking-events.enum";
-import { Product } from "../pages/products";
+import { Product } from "../pages/models/Product";
 
 export class MixpanelTracking {
   private static _instance: MixpanelTracking;
