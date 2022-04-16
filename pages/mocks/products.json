@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Jacketa Polo",
+    "description": "Jacketa muito boa",
+    "image": "https://picsum.photos/200",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Blusa Branca",
+    "description": "Blusa branca linha",
+    "image": "https://picsum.photos/200",
+    "price": 130
+  },
+  {
+    "id": 3,
+    "name": "Tênis Misuno",
+    "description": "Tênis para corrida",
+    "image": "https://picsum.photos/200",
+    "price": 130
+  }
+]
